@@ -20,7 +20,7 @@ export default function About(props) {
                 style={{backgroundColor: props.mode==='dark'? '#153f7d' : 'white',
                      color:props.mode==='dark'? 'white' : 'black' }}
               >
-                <strong>About TextutilsByArun</strong> 
+                <strong>About TextutilsByarjun</strong> 
               </button>
             </h2>
             <div
@@ -30,7 +30,7 @@ export default function About(props) {
             >
               <div className="accordion-body" style={{backgroundColor: props.mode==='dark'? '#153f7d' : 'white',
                      color:props.mode==='dark'? 'white' : 'black' }} >
-                TextutilsbyArun Is My First React Base Web Application.I'm Arun & I'm a Full-Stack Web Developer. I provide Web Development Services of all type, whether a multi-page web app or a single page web app.
+                TextutilsbyArjun Is My First React Base Web Application.I'm Arjun & I'm a Full-Stack Web Developer. I provide Web Development Services of all type, whether a multi-page web app or a single page web app.
               </div>
             </div>
           </div>
@@ -57,7 +57,7 @@ export default function About(props) {
               <div className="accordion-body" style={{backgroundColor: props.mode==='dark'? '#153f7d' : 'white',
                      color:props.mode==='dark'? 'white' : 'black' }} >
                 Interested Clients can Contact me Over my personal
-                  Email: <a href="workwitharun@gmail.com" style={{color:props.mode==='dark'? 'pink' : 'blue'}}>workwitharun@gmail.com</a>
+                  Email: <a href="workwitharun@gmail.com" style={{color:props.mode==='dark'? 'pink' : 'blue'}}>arjunsinghtanwar537@gmail.com</a>
                   Or 
                   You can visit my personal Web Development Services Website here : <a href="https://codewitharun.netlify.app/" style={{color:props.mode==='dark'? 'pink' : 'blue'}}>https://codewitharun.netlify.app</a>
               </div>
